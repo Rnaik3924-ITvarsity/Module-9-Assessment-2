@@ -29,10 +29,10 @@ body {
 }
 
 .col1 {
-    width: 15%; /* Adjusted width for better alignment */
+    width: 10%; /* Adjusted width for better alignment */
 }
 
 .col2 {
-    width: 50%; /* Adjusted width for better alignment */
+    width: 45%; /* Adjusted width for better alignment */
     text-align: left; /* Added text alignment */
 }
